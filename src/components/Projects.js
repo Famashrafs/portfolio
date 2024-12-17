@@ -23,7 +23,7 @@ const projects = [
         image: require('../images/project-3-icon.ico'),
         title: 'Pizza Restaurant ',
         summary: 'Developed a fully responsive, 5-page pizza restaurant website using React, HTML, and CSS.',
-        liveDemoLink: 'https://pizza-website-taupe.vercel.app/',
+        liveDemoLink: 'https://pizza-website-wheat.vercel.app',
         githubLink: 'https://github.com/Famashrafs/Pizza-Website'
     },
     {
