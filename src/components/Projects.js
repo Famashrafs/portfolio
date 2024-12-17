@@ -31,7 +31,7 @@ const projects = [
         image: require('../images/project-4-icon.ico'),
         title: 'Weather App',
         summary: 'A responsive React-based weather app providing real-time weather updates for searched locations with a clean and user-friendly interface.',
-        liveDemoLink: 'weather-app-ten-xi-91.vercel.app',
+        liveDemoLink: 'https://weather-app-ten-xi-91.vercel.app',
         githubLink: 'https://github.com/Famashrafs/weather-app'
     },
     // Add more projects as needed
