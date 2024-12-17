@@ -22,10 +22,6 @@ const Skills = () => {
               <p>Redux</p>
             </div>
             <div className="icon-container">
-              <i className="devicon-nextjs-original-wordmark"></i>
-              <p>Next.js</p>
-            </div>
-            <div className="icon-container">
               <i className="devicon-html5-plain colored"></i>
               <p>HTML5</p>
             </div>
