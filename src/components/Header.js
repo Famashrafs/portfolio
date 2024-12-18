@@ -18,7 +18,7 @@ function Header() {
             <Nav.Link className="nav-link" href="#skills">Skills</Nav.Link>
             <Nav.Link className="nav-link" href="#certificates">Certificates</Nav.Link>
             <Nav.Link className="nav-link" href="#projects">Projects</Nav.Link>
-            <Nav.Link className="nav-link" href="#testimonials">testimonial</Nav.Link>
+            {/* <Nav.Link className="nav-link" href="#testimonials">testimonial</Nav.Link> */}
             <Nav.Link className="nav-link" href="#contact">Contact Me</Nav.Link>
           </Nav>
         </Navbar.Collapse>
